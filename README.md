@@ -1,1 +1,1 @@
-# Tutorial
+# Estos archivos son para que os podáis crear un bot de Discord de manera más fácil y rápida. Lo único es que tenéis que mirar cada episodio del canal para saber que es lo que tendréis que modificar para vuestro bot.
